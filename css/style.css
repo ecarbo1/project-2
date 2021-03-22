@@ -1,0 +1,18 @@
+nav {
+	font-family: arial;
+	color: red;
+}
+
+ul {
+	color: red;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+h1 {
+	color: blue;
+	font-size: 40px;
+	text-decoration: underline, bold;
+}
+
+	
