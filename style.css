@@ -9,4 +9,10 @@ ul {
 	text-decoration: underline;
 }
 
+h1 {
+	color: blue;
+	font-size: 40px;
+	text-decoration: underline, bold;
+}
+
 	
