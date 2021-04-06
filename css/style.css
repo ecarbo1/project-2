@@ -18,7 +18,7 @@ h1 {
 p {
 	color: grey;
 	font-size: 20px;
-	text-decoration: underline;
+	text-decoration: bold;
 }
 
 h2 {
@@ -30,6 +30,6 @@ h2 {
 ol {
 	color: red;
 	font-size: 40px;
-	text-decoration: underline;
+	text-decoration: bold;
 }
 
